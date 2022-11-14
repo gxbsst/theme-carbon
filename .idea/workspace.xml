@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="778a1332-fc35-43bd-b4c8-c60f578e1539" name="Default Changelist" comment="">
+    <list default="true" id="778a1332-fc35-43bd-b4c8-c60f578e1539" name="Default Changelist" comment="Version 2.4">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/themes/Carbon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/themes/Carbon.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarbonTheme.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CarbonTheme.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CarbonTheme/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarbonTheme/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CarbonTheme/matte_carbon_basics.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarbonTheme/matte_carbon_basics.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/matte_carbon_basics.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/matte_carbon_basics.theme.json" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +38,10 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="MatteCarbonTheme" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
+        <option value="$CLASS$" />
         <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="ThemeEditorColorScheme" />
@@ -62,6 +63,14 @@
     </option>
     <option name="RESET_MODE" value="MIXED" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="luisfer0793" />
@@ -80,6 +89,12 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="qy3inihg" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -92,6 +107,12 @@
   </component>
   <component name="ProjectId" id="1OmiCOL3vPhcKVfF3GBKBPpgR6T" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showURL" value="false" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
@@ -99,6 +120,8 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -111,7 +134,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.213858" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -122,24 +145,12 @@
       <recent name="C:\Users\Fernando\Documents\Plugins\MatteCarbonTheme\resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Plugin" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="CarbonTheme" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <alternative-path path="IntelliJ IDEA IU-191.7141.44" alternative-path-enabled="true" />
+      <alternative-path path="IntelliJ IDEA IU-213.6777.52" alternative-path-enabled="true" />
       <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -155,6 +166,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -318,6 +330,15 @@
       <workItem from="1564597952451" duration="262000" />
       <workItem from="1564598237314" duration="76000" />
       <workItem from="1564614188671" duration="154000" />
+      <workItem from="1668391868364" duration="1017000" />
+      <workItem from="1668393959920" duration="71000" />
+      <workItem from="1668394229618" duration="812000" />
+      <workItem from="1668395107312" duration="11000" />
+      <workItem from="1668395347182" duration="644000" />
+      <workItem from="1668396175760" duration="61000" />
+      <workItem from="1668396594145" duration="32000" />
+      <workItem from="1668396703098" duration="83000" />
+      <workItem from="1668397139739" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="First Release">
       <created>1555903423595</created>
@@ -409,7 +430,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -428,7 +449,6 @@
           <value>
             <State>
               <option name="SHOW_DETAILS_IN_CHANGES" value="false" />
-              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
