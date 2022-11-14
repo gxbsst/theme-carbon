@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="778a1332-fc35-43bd-b4c8-c60f578e1539" name="Default Changelist" comment="Version 2.4">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="778a1332-fc35-43bd-b4c8-c60f578e1539" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarbonTheme.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CarbonTheme.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarbonTheme/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarbonTheme/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarbonTheme.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CarbonTheme.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CarbonTheme/matte_carbon_basics.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarbonTheme/matte_carbon_basics.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CarbonTheme/themes/Carbon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarbonTheme/themes/Carbon.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/matte_carbon_basics.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/matte_carbon_basics.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/themes/Carbon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/themes/Carbon.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="settings.editor.splitter.proportion" value="0.213858" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -417,7 +416,21 @@
       <option name="project" value="LOCAL" />
       <updated>1564598170068</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="feat: 去掉边框颜色">
+      <created>1668397652050</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668397652050</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: 去掉边框颜色">
+      <created>1668397666853</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668397666853</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -431,16 +444,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -488,7 +491,8 @@
     <MESSAGE value="Version 2.1" />
     <MESSAGE value="Version 2.2" />
     <MESSAGE value="Version 2.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 2.4" />
+    <MESSAGE value="feat: 去掉边框颜色" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 去掉边框颜色" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

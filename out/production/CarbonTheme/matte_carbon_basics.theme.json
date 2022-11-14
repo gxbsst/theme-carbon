@@ -317,6 +317,14 @@
         "WelcomeScreen": {
             "Projects.selectionInactiveBackground": "#172030",
             "separatorColor": "#172030"
+        },
+        "RunWidget" : {
+            "foreground": "#ffffff",
+            "background": "#152031",
+            "runningBackground": "#599e5e",
+            "hoverBackground": "#00000019",
+            "pressedBackground": "#00000028",
+            "separatorColor": "#152031"
         }
     },
 
