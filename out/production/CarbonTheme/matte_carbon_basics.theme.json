@@ -28,6 +28,7 @@
             "acceleratorSelectionForeground": "#abb9bc"
         },
 
+
         "ActionButton": {
             "hoverBackground": "26354f",
             "hoverBorderColor": "#074855",
@@ -321,7 +322,7 @@
         "RunWidget" : {
             "foreground": "#ffffff",
             "background": "#152031",
-            "runningBackground": "#599e5e",
+            "runningBackground": "#07390b",
             "hoverBackground": "#00000019",
             "pressedBackground": "#00000028",
             "separatorColor": "#152031"

@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="778a1332-fc35-43bd-b4c8-c60f578e1539" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CarbonTheme.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CarbonTheme.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/CarbonTheme/matte_carbon_basics.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarbonTheme/matte_carbon_basics.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CarbonTheme/themes/Carbon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CarbonTheme/themes/Carbon.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/matte_carbon_basics.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/matte_carbon_basics.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/themes/Carbon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/themes/Carbon.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +71,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
     <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="luisfer0793" />
@@ -112,31 +116,14 @@
     <option name="showURL" value="false" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="TODO_SCOPE" value="All Places" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
-    <property name="settings.editor.splitter.proportion" value="0.213858" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Fernando\Documents\Plugins\MatteCarbonTheme\resources\META-INF" />
@@ -338,6 +325,19 @@
       <workItem from="1668396594145" duration="32000" />
       <workItem from="1668396703098" duration="83000" />
       <workItem from="1668397139739" duration="49000" />
+      <workItem from="1668416645643" duration="55000" />
+      <workItem from="1668416720554" duration="162000" />
+      <workItem from="1668416909030" duration="1015000" />
+      <workItem from="1668423546567" duration="77000" />
+      <workItem from="1668423648313" duration="2136000" />
+      <workItem from="1668490482332" duration="447000" />
+      <workItem from="1669093398657" duration="2226000" />
+      <workItem from="1669179256363" duration="1005000" />
+      <workItem from="1669183978831" duration="3034000" />
+      <workItem from="1669196781218" duration="1653000" />
+      <workItem from="1669790137887" duration="397000" />
+      <workItem from="1669794542775" duration="598000" />
+      <workItem from="1669865747226" duration="568000" />
     </task>
     <task id="LOCAL-00001" summary="First Release">
       <created>1555903423595</created>
@@ -430,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668397666853</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat: change run widget color">
+      <created>1668402210077</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668402210077</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -444,6 +451,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -492,7 +509,12 @@
     <MESSAGE value="Version 2.2" />
     <MESSAGE value="Version 2.4" />
     <MESSAGE value="feat: 去掉边框颜色" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 去掉边框颜色" />
+    <MESSAGE value="feat: change run widget color" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: change run widget color" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
